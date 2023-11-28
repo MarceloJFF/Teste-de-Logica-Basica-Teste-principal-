@@ -1,4 +1,4 @@
-# Teste-de-L-gica-B-sica-Teste-principal-
+# Teste-de-Logica-Basica-Teste-principal-
 Teste técnico de lógica de programação Inforgenesis
 
 ##Requerimentos
